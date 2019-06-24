@@ -1,0 +1,6 @@
+{
+    "require":{
+        "php":">=5.3.0",
+        "workerman/workerman": "^3.5"
+    }
+}
